@@ -1,0 +1,4 @@
+name: EthansPlugin
+version: '${project.version}'
+main: ethansplugin.main
+api-version: 1.19
